@@ -16,7 +16,7 @@
    - Include at least one enemy with simple AI that can follow or attack the player.
 
 3. 🛗 **Lift/Elevator Mechanic**  
-   - Add a lift that moves the player vertically between different levels.
+   - Add a lift that moves the player horizontally and vertically between different levels.
    
    *Horizontal*
 
