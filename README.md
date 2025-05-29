@@ -1,4 +1,5 @@
 # 🎮 Week 2: Game Development Assignment
+![Uploading Going Up Hollow Knight GIF by Xbox(1).gif…]()
 
 ## 🔧 Goals for the Week
 - Build a complete and visually appealing game.
