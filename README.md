@@ -17,6 +17,14 @@
 
 3. 🛗 **Lift/Elevator Mechanic**  
    - Add a lift that moves the player vertically between different levels.
+   
+   *Horizontal*
+
+   ![Horizontal](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRlbm9uZ2oweGJib2JyZmt3c2FmcjZqbDEzcXJob28zOHJyNmRpOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/seP7yUAPbxsCJaNEal/giphy.gif)
+
+   *Vertical*
+
+   ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjcxNDdqcnU0OXVzMmQ1azR3MDhkYXQ3Z3EwM3BsaXo1Z3AybXl6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mIg1Ik3KYxy0WylN3W/giphy.gif)
 
 4. 🎶 **Audio**
    - Add background music (BGM).
